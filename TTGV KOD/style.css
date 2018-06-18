@@ -1,0 +1,19 @@
+body {
+    font font-family: monospace;
+    color: black;
+    font: 16px;
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+    width: 50%; ;
+    margin: auto;
+}
+h1 {background-color:#b3ecec; text-align: center;
+border-bottom:solid 3px purple ;}
+.malzemeler{
+color: darksalmon;
+}
+p{text-align: center;}
+img{display: block;
+border: dotted 4px black ;
+border-radius: 30% ;
+margin: auto;}
